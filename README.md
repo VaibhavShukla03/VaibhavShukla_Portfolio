@@ -15,7 +15,7 @@
 I'm open to collaborations, internships, or feedback on my work!
 
 - 📧 Email: vaibhavshukla.it@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vaibhavshukla03/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vaibhav-shukla-web/)  
 - 💻 [GitHub](https://github.com/VaibhavShukla03)
 
 ---
